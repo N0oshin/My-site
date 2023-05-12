@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  font-size: 1.3rem;
+  color: #112B3C;
+  font-weight: bold;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #3C84AB;
+  font-size: 4.5rem;
+}
+
+h2 {
+  font-family: montserrat;
+  font-size: 1.5rem;
+  color: #B958A5;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  color: #5F7161;
+  font-weight: bold;
+}
+
+p {
+
+  line-height: 2;
+}
+
+.motive {
+  color: #B958A5;
+  font-size: medium;
+  font-family: montserrat;
+  font-weight: bold;
+}
+
+.top {
+  background-color: #E9F8F9;
+  height: 100vh;
+}
+
+.heading {
+  color: #5F7161;
+}
+
+
+.hero {
+  margin-top: 5%;
+  height: 50vh;
+}
+
+
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+  padding: 5% 0 2% 0;
+  border-radius: 100%;
+
+}
+
+.intro {
+  width: 30%;
+  margin: 0 auto;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  width: 4%;
+  border-width: 0.5rem;
+
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 5% auto 10% auto;
+  text-align: left;
+
+}
+
+.skills-image {
+
+  float: left;
+  margin-right: 40px;
+}
+
+.chclt {
+  float: right;
+  margin-left: 50px;
+}
+
+.contact-me {
+  background-color: #E9F8F9;
+  padding: 3%;
+  color: #3C84AB;
+}
+
+.getintouch {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.message {
+  padding: 10px 20px 10px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #19A7CE;
+  font-size: .9em;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 40px;
+  border-width: 0;
+}
+
+.message:hover {
+  background-color: #569DAA;
+}
+
+.bottom {
+  height: 100px;
+}
+
+.linkedin {
+  font-family: monospace;
+  text-decoration: none;
+}
